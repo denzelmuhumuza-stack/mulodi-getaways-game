@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280">
+  <!-- Soft shadow of a hand reaching in from below and pinching the card's edge.
+       Replace this file with a photographed/illustrated hand PNG/SVG to change the look. -->
+  <defs>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <g filter="url(#soft)" fill="#1a120b" fill-opacity="0.42">
+    <rect x="66" y="8" width="24" height="96" rx="12" transform="rotate(-6 78 56)"/>
+    <rect x="93" y="0" width="24" height="104" rx="12"/>
+    <rect x="120" y="10" width="23" height="94" rx="11.5" transform="rotate(5 131 57)"/>
+    <rect x="145" y="34" width="20" height="78" rx="10" transform="rotate(12 155 73)"/>
+    <rect x="22" y="70" width="26" height="92" rx="13" transform="rotate(-38 35 116)"/>
+    <ellipse cx="108" cy="150" rx="64" ry="70"/>
+    <rect x="62" y="170" width="92" height="120" rx="30"/>
+  </g>
+</svg>
